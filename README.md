@@ -1,2 +1,2 @@
 # Java-Codes
-All the basic java codes that I practised!
+All the basic java codes that I practised from various platforms!
