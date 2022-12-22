@@ -43,7 +43,7 @@ public class Chaining {
 
 
         public static void main(String[] args) {
-            //1System.out.println("Hello, World!");
+            
             data da1=new data(4, 676);
             data da2=new data(24, 686);
             data da3=new data(23, 696);
