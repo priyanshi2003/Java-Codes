@@ -1,2 +1,3 @@
 # Java-Codes
-All the basic java codes that I practised from various platforms!
+All the codes that I practised from various platforms!
+Language: Java
